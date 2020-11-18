@@ -8,4 +8,4 @@ Nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, pre
 
 ### Responsivo
 
-![Alt text](https://github.com/pmarcelojr/instagram-dio/blob/main/images/images/img-cel.png?raw=true)
+![Alt text](https://github.com/pmarcelojr/instagram-dio/blob/main/images/img-cel.png?raw=true)
