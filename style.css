@@ -57,7 +57,7 @@ body {
 }
 
 .group:nth-child(1) {
-    min-width: 19rem;
+    min-height: 19rem;
 }
 
 .instagram-logo {
@@ -70,6 +70,7 @@ body {
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    height: 6rem;
 }
 
 .profile-photo img {
