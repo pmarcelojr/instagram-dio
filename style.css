@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 242, 243);
+    background-color: rgb(243, 243, 243);
     margin: 0;
     padding: 0;
     display: flex;
@@ -54,4 +54,36 @@ body {
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgrey;
+}
+
+.group:nth-child(1) {
+    min-width: 19rem;
+}
+
+.instagram-logo {
+    height: 3rem;
+}
+
+.profile-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profile-photo img {
+    height: 6rem;
+}
+
+.instagram-login {
+    background-color: #0095f6;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.instagram-logout {
+    color: #0095f6;
+    margin-top: 1rem;
 }
